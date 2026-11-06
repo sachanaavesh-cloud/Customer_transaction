@@ -51,7 +51,7 @@ for record in raw_orders:
 
 # 6. Print Part 1 outputs
 print("Part 1 - Customer Category Breakdown and valid records:")
-print("\nValid Records")
+print("\nValid Records :")
 print(valid_records)
 print("\nCustomer Category Breakdown")
 print(customer_breakdown)
